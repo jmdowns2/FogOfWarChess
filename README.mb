@@ -1,0 +1,4 @@
+## Fog of war chess
+
+Many real time strategy games contain the concept of fog of war.  If one of your men are not in the area, you can't see an opponent.  This is a quick prototype to see if this concept applied to chess is reasonable.
+

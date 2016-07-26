@@ -1,0 +1,9 @@
+.fow-fog
+{
+	background: rgba(10, 10, 10, .5) !important;
+}
+
+.fow-fog > img
+{
+	display: none;
+}
