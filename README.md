@@ -3,5 +3,5 @@ Many real time strategy games contain the concept of fog of war.  If one of your
 
 You are only able to see squares that you can currently move to or you could have previouslly have moved to.
 
-[Click here to play]: http://www.jmdowns.com/fogofwar/index.html
+[Click here to play](http://www.jmdowns.com/fogofwar/index.html)
 
